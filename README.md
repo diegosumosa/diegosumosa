@@ -11,7 +11,7 @@ A passionate **Systems Engineering Student** focused on building clean, efficien
 *  Constantly building and improving academic and personal projects.
 
 ##  Tech Stack & Tools
-* **Languages:** Java, Python
+* **Languages:** Java, Python, SQL
 * **Tools:** Git, GitHub
 
 ##  How to reach me
